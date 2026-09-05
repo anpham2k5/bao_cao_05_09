@@ -1,4 +1,4 @@
-# Báo cáo tiến độ nghiên cứu ngày 22/08/2026
+# Báo cáo tiến độ nghiên cứu ngày 05/09/2026
 ## A. Công việc đã làm
 - Sửa code khi không dùng đến thạch anh ngoại
 - Tìm hiểu nguyên lí và Vẽ mạch tích hợp stm32 cho cảm biến
