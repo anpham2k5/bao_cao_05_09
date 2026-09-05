@@ -157,6 +157,9 @@ pressure1 = new ADCTouchSensor(PA0, PA1, 50);
 
 </div>
 
+##### Nhận xét:
+-Khi đo với khoảng thời gian xấp xỉ 20ms thì sẽ cho ra kết quả mượt hơn
+
 ### 2. Mạch tích hợp stm32
 - Kích thước 40mmx40mm
 - Phần schematic và 3d của mạch:
